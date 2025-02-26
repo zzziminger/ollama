@@ -1,3 +1,5 @@
-Build a simple DeepSeek local Research Agent with Langchain - ollama-deep-researcher
+## ollama-deep-researcher
+Build a simple DeepSeek local Research Agent with Langchain
 
-Enhance the assistant with a YouTube Search + Email Automation - ollama-deep-web-yt-email-researcher
+## ollama-deep-web-yt-email-researcher
+Enhance the assistant with a YouTube Search + Email Automation 
