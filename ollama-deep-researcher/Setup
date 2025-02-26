@@ -15,3 +15,7 @@ pip install 'langgraph-cli[inmem]'
 
 # Start langgraph development mode
 langgraph dev
+
+# Open configuration tab and choose web search tool + local LLM + depth of the research iterations
+# By defaul, it will be DuckDuckGo + llama3.2 + 3
+# For example, can change into DuckDuckGo + deepseekr1:8b + 3
